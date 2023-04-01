@@ -3,7 +3,7 @@
   <groupId>jp.aoichaan0513</groupId>
   <artifactId>Kotlin_Utils</artifactId>
   <versioning>
-    <release>1.6.2</release>
+    <release>1.6.3</release>
     <versions>
       <version>1.3.0</version>
       <version>1.4.0</version>
@@ -17,7 +17,8 @@
       <version>1.6.0</version>
       <version>1.6.1</version>
       <version>1.6.2</version>
+      <version>1.6.3</version>
     </versions>
-    <lastUpdated>20230401140840</lastUpdated>
+    <lastUpdated>20230401141927</lastUpdated>
   </versioning>
 </metadata>
